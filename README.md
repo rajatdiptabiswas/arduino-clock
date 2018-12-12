@@ -9,6 +9,11 @@ A seven segment display clock made using Arduino Uno
 * Arduino Uno x 1
 * Jumper wires
 
+## Libraries used
+* Time.h
+* TimeLib.h
+* EasyButton.h
+
 ## Authors
 
 * **Rajat Dipta Biswas** - *Initial work*
