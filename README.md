@@ -20,6 +20,6 @@ A seven segment display clock made using Arduino Uno
 
 See also the list of [contributors](https://github.com/rajatdiptabiswas/arduino-clock/graphs/contributors) who participated in this project.
 
-## Acknowledgments
+## Acknowledgements
 * [Arduino Documentations](https://www.arduino.cc/en/Main/Docs)
 * [Instructables](https://www.instructables.com/id/How-to-make-a-Arduino-Digital-Clock/)
